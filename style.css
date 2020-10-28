@@ -1,0 +1,17 @@
+ul li.checked{
+    align-content: #888;
+    color: #ef0d0d;
+    text-decoration: line-through;
+    background-color: aqua;
+}
+.close{
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 12px 16px 12px 16px;
+}
+#deleteAll{
+    position: absolute;
+    right: 5px;
+    top: 10px;
+}
